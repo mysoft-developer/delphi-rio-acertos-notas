@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/03 19:04:12.000.777,=C:\Users\gersonluizfurtado\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/10 15:17:35.000.349,=C:\Users\gersonluizfurtado\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/10 15:18:16.000.272,C:\developer\delphi-rio-acertos-nfe-digest\uprincipal.dfm=C:\Users\gersonluizfurtado\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/06/10 15:18:16.000.272,C:\developer\delphi-rio-acertos-nfe-digest\uprincipal.pas=C:\Users\gersonluizfurtado\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/10 15:18:24.000.615,C:\developer\delphi-rio-acertos-nfe-digest\acertos.dproj=C:\Users\gersonluizfurtado\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="3833335135413498" Android64="3833335135413498"/>
+	</ActiveMobileDevice>
+</BorlandProject>
